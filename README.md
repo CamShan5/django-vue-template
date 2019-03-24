@@ -66,7 +66,7 @@ Before getting started you should have the following installed and running:
 ## Setup Template
 
 ```
-$ git clone https://github.com/gtalarico/django-vue-template
+$ git clone https://github.com/CamShan5/django-vue-template
 $ cd django-vue-template
 ```
 
